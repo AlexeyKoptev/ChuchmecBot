@@ -11,4 +11,4 @@ services:
       BOT_TOKEN: 7208894832:AAH6DZ7t3LfK-npn5W2fTVX8vKhL6alb22k
       SESSION: 0548386488
       AUTH: 5157146415
-      FORCESUB: ChuchmekBot
+      FORCESUB:
